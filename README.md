@@ -1,2 +1,3 @@
 # Online-Education
-HTML, CSS, JS, Reactjs
+HTML, CSS, JS, ReactJS
+Author - Sampada Gaikwad
